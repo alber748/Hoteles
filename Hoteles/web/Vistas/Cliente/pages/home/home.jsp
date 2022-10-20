@@ -37,7 +37,7 @@
           <input type="date" class="form-control">
         </div>  
         <div class="col-lg-2">
-          <button class="btn btn-buscar">Buscar</button>
+            <a class="btn btn-buscar" href="${pageContext.servletContext.contextPatch}/Hoteles/Vistas/Cliente/pages/buscador/buscar.jsp">Buscar</a>
         </div>       
       </form>
     </section>

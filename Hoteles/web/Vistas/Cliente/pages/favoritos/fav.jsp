@@ -8,7 +8,7 @@
   <!-- ======= Header ======= -->
   <%@include file="../../components/navGlobal/nav.jsp"%>
   <!-- End #header -->
-    <div class="container">
+    <div class="container" style="margin-top: 100px">
           <h2>FAVORITOS</h2>
     </div>
 </body>
