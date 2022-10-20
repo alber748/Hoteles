@@ -14,6 +14,6 @@
     <body>
         <h1>Login Admin</h1>
         <a href="../../../../index.jsp">Inicio Cliente</a>
-        <a href="../home/home.jsp">DashBoard Cliente</a>
+        <a href="../home/home.jsp">DashBoard Admin</a>
     </body>
 </html>

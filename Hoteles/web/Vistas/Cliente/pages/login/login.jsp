@@ -1,16 +1,16 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
-    <title>Travel - Mis Viajes</title>>
+    <title>Travel - Entrar</title>>
     <%@include file="../../components/header/header.jsp"%>
 <body>
 
   <!-- ======= Header ======= -->
   <%@include file="../../components/navGlobal/nav.jsp"%>
   <!-- End #header -->
-    <div class="container">
-          <h2>LISTA DE VIAJES</h2>
-    </div>
+  <div class="container">
+      <h2>LOGIN / REGISTRO CLIENTE</h2>
+  </div>
 </body>
 <script src="../../assets/js/main.js"></script>
 </html>

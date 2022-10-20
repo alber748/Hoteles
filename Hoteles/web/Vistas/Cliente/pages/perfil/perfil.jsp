@@ -9,7 +9,7 @@
   <%@include file="../../components/navGlobal/nav.jsp"%>
   <!-- End #header -->
     <div class="container">
-          <h2>LISTA DE VIAJES</h2>
+          <h2>PERFIL DEL CLIENTE</h2>
     </div>
 </body>
 <script src="../../assets/js/main.js"></script>

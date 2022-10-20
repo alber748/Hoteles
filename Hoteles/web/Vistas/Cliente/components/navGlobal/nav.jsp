@@ -11,10 +11,10 @@
                 <a href="${pageContext.servletContext.contextPatch}/Hoteles/Vistas/Cliente/pages/hoteles/hoteles.jsp">Hoteles</a>
               </li>
               <li>
-                <a href="">Mis Viajes</a>
+                <a href="${pageContext.servletContext.contextPatch}/Hoteles/Vistas/Cliente/pages/viajes/viajes.jsp">Mis Viajes</a>
               </li>
               <li>
-                <a href="">Iniciar Sesion / Registrarme</a>
+                <a href="${pageContext.servletContext.contextPatch}/Hoteles/Vistas/Cliente/pages/login/login.jsp">Iniciar Sesion / Registrarme</a>
               </li>
             </ul>
           </div>
