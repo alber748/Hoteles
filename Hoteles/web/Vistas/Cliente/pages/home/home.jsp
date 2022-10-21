@@ -51,7 +51,7 @@
         <div class="row">
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="card">
-              <img src="assets/img/hotel-example.jpg" class="card-img-top" alt="...">
+              <img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/04/13/16498369774107.jpg" class="card-img-top" alt="...">
               <div class="card-icon">
                 <i class="fa-solid fa-magnifying-glass-plus"></i>
               </div>
@@ -64,7 +64,7 @@
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="card">
-              <img src="assets/img/hotel-example.jpg" class="card-img-top" alt="...">
+              <img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/04/13/16498369774107.jpg" class="card-img-top" alt="...">
               <div class="card-icon">
                 <i class="fa-solid fa-magnifying-glass-plus"></i>
               </div>
@@ -77,7 +77,7 @@
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="card">
-              <img src="assets/img/hotel-example.jpg" class="card-img-top" alt="...">
+              <img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/04/13/16498369774107.jpg" class="card-img-top" alt="...">
               <div class="card-icon">
                 <i class="fa-solid fa-magnifying-glass-plus"></i>
               </div>
@@ -90,7 +90,7 @@
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="card">
-              <img src="assets/img/hotel-example.jpg" class="card-img-top" alt="...">
+              <img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/04/13/16498369774107.jpg" class="card-img-top" alt="...">
               <div class="card-icon">
                 <i class="fa-solid fa-magnifying-glass-plus"></i>
               </div>
@@ -103,7 +103,7 @@
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="card">
-              <img src="assets/img/hotel-example.jpg" class="card-img-top" alt="...">
+              <img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/04/13/16498369774107.jpg" class="card-img-top" alt="...">
               <div class="card-icon">
                 <i class="fa-solid fa-magnifying-glass-plus"></i>
               </div>
@@ -116,7 +116,7 @@
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="card">
-              <img src="assets/img/hotel-example.jpg" class="card-img-top" alt="...">
+              <img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/04/13/16498369774107.jpg" class="card-img-top" alt="...">
               <div class="card-icon">
                 <i class="fa-solid fa-magnifying-glass-plus"></i>
               </div>
@@ -129,7 +129,7 @@
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="card">
-              <img src="assets/img/hotel-example.jpg" class="card-img-top" alt="...">
+              <img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/04/13/16498369774107.jpg" class="card-img-top" alt="...">
               <div class="card-icon">
                 <i class="fa-solid fa-magnifying-glass-plus"></i>
               </div>
@@ -142,7 +142,7 @@
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="card">
-              <img src="assets/img/hotel-example.jpg" class="card-img-top" alt="...">
+              <img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/04/13/16498369774107.jpg" class="card-img-top" alt="...">
               <div class="card-icon">
                 <i class="fa-solid fa-magnifying-glass-plus"></i>
               </div>

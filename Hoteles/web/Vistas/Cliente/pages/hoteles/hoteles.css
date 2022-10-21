@@ -1,0 +1,10 @@
+.col-3{
+    width: 22%;
+}
+.col-9{
+    position: relative;
+    left: 2%;
+}
+.contenido{
+    margin-top: 80px;
+}
